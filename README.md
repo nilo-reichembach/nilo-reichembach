@@ -1,4 +1,4 @@
-#SOBRE MIM...#
+#SOBRE MIM...
 -  👋 Olá, meu nome é Nilo César Reichembach
 - 👀 Sou professor da Rede pública de ensino!
 - 🌱 Leciono a disciplina de Pensamento Computacional e Robótica
